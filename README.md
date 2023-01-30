@@ -1,8 +1,8 @@
 # Quick-Starter-GUI
 
-##python required to run!
+## python required to run!
 
-###Early Development
+### Early Development
 
 
 | BLUEAMETHSYT Studios
